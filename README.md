@@ -34,7 +34,7 @@
 
 ## 📫 Connect with Me  
 
-- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/kanistant)](#)  
+- LinkedIn: [(https://www.linkedin.com/in/kanistant)]
 - GitHub: [Your GitHub Profile](#)  
 - Email: [kanistan333@gmail.com](mailto:kanistan333@gmail.com)  
 
