@@ -1,4 +1,4 @@
-# Hi there, I'm [Kanistan] 👋  
+# Hi there, I'm Kanistan 👋  
 
 🎓 2nd Year IT Undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)**  
 💻 Passionate about **Software Development | Web Development | Mobile Applications**  
