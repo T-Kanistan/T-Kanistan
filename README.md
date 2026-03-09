@@ -1,6 +1,6 @@
 # Hi there, I'm Kanistan 👋  
 
-🎓 2nd Year IT Undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)**  
+🎓 3rd Year Software Engineering Undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)**  
 💻 Passionate about **Software Development | Web Development | Mobile Applications**  
 🚀 Actively looking for an **Internship Opportunity** to apply my skills and gain real-world experience  
 
@@ -8,8 +8,8 @@
 
 ## 🛠️ Skills  
 
-- **Programming:** Java, Python, C++, JavaScript  
-- **Web Development:** HTML, CSS, JavaScript, PHP  
+- **Programming:** Java, Python, C++, C, JavaScript  
+- **Web Development:** MERN Stack, HTML, CSS, JavaScript, PHP  
 - **Databases:** MySQL, SQL Server  
 - **Mobile Development:** Android Studio (Kotlin, XML), Figma UI/UX Design  
 - **Tools & Platforms:** Git/GitHub, Eclipse, VS Code, Figma  
@@ -34,8 +34,7 @@
 
 ## 📫 Connect with Me  
 
-- LinkedIn: [(https://www.linkedin.com/in/kanistant)]
-- GitHub: [Your GitHub Profile](#)  
+- LinkedIn: https://www.linkedin.com/in/kanistant
 - Email: [kanistan333@gmail.com](mailto:kanistan333@gmail.com)  
 
 ---
